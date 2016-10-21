@@ -1,0 +1,3 @@
+[submodule "textly"]
+	path = textly
+	url = https://github.com/koma5/textly
