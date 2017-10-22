@@ -1,3 +1,6 @@
 [submodule "textly"]
 	path = textly
 	url = https://github.com/koma5/textly
+[submodule "dinacon17SparqlChallenge"]
+	path = dinacon17SparqlChallenge
+	url = https://github.com/koma5/dinacon17SparqlChallenge
