@@ -4,3 +4,6 @@
 [submodule "dinacon17SparqlChallenge"]
 	path = dinacon17SparqlChallenge
 	url = https://github.com/koma5/dinacon17SparqlChallenge
+[submodule "generativeDesignSteps"]
+	path = generativeDesignSteps
+	url = https://github.com/koma5/generativeDesignSteps
